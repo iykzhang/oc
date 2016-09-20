@@ -2,6 +2,6 @@
 #import "test.h"
 
 int main(){
-    testc();
+    tuuestc();
     return 0;
 }
